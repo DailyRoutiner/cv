@@ -1,9 +1,9 @@
 # Site settings
-title: Portfolio
+title: Seongjun Choi
 email: schoi0813@conestogac.on.ca
 url: https://github.com/DailyRoutiner
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
+description: "Description by learning English"
+keywords: "Proficiency Enthusiastic"
 skills: "iOS Developer - Data Engineer - Meta Management"
 meta_author: Choi Seongjun
 
@@ -39,14 +39,12 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: youtube
+    url: https://www.youtube.com/@user-wj8dy7mr4w
+  - title: linkedin
+    url: www.linkedin.com/in/schoi0813
+  - title: tistory
+    url: https://digitaldetox.tistory.com
   - title: github
     url: http://github.com/DailyRoutiner
 
